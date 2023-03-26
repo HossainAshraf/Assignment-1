@@ -14,6 +14,9 @@ body {
 .first-img {
     filter: blur(3px);
     width: 100%;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 3%;
 
 }
 
@@ -179,17 +182,83 @@ body {
 
 }
 
-.eight-div {
-    width: 40%;
 
-
-}
 
 #id-eighteen {
     font-size: 40px;
 }
 
 .seventh-div {
-    margin-left: 3%;
+    margin-left: 20%;
     text-align: left;
+    margin-right: 5%;
+
+
+}
+
+#id-nineteen {
+    font-size: medium;
+
+}
+
+
+#id-twenty {
+    width: 40%;
+}
+
+#id-twentyone {
+    width: 30%;
+    margin-right: 8%;
+    margin-top: 3%;
+
+}
+
+.eight-div {
+    text-align: center;
+    margin-top: 8%;
+
+}
+
+.eight-div h1 {
+    font-size: 30px;
+    color: cadetblue;
+}
+
+#id-twentytwo {
+
+
+    width: 20%;
+    height: 38px;
+    margin-left: 35%;
+    margin-top: 2%;
+    margin-bottom: 3%;
+
+}
+
+.ninth-div {
+    box-shadow: 2px 2px 5px gray;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+
+}
+
+.sixth-section {
+    background-color: black;
+    height: 150px;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+.tenth-div {
+    text-align: center;
+    color: white;
+    padding-top: 2%;
+}
+
+.tenth-div h1 {
+    font-weight: 100px;
 }
