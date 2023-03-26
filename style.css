@@ -1,0 +1,195 @@
+body {
+    font-family: 'Didact Gothic', sans-serif;
+    font-family: 'IBM Plex Serif', serif;
+    font-family: 'Overpass', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Public Sans', sans-serif;
+}
+
+.first-section {
+    position: relative;
+
+}
+
+.first-img {
+    filter: blur(3px);
+    width: 100%;
+
+}
+
+
+.first-div {
+    text-align: center;
+    position: absolute;
+    top: 15%;
+    left: 6%;
+    color: blanchedalmond;
+}
+
+#id-one {
+    font-size: 50px;
+}
+
+#id-two {
+    font-weight: bolder;
+    color: aliceblue;
+}
+
+#button-one {
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(to right, black, grey);
+    border-radius: 5px;
+    padding: 10px;
+    font-weight: 700;
+
+}
+
+.second-div {
+    text-align: center;
+}
+
+#id-three {
+    font-size: 40px;
+    font-weight: 1000;
+    color: solid gray;
+}
+
+#id-four {
+    font-weight: bolder;
+}
+
+
+
+.second-section {
+    display: flex;
+    padding-left: 32%;
+
+
+}
+
+#id-five {
+    box-shadow: 1px 1px 3px black;
+    padding: 7px;
+    border-radius: 5px;
+    padding-right: 10px;
+    padding-left: 10px;
+
+}
+
+#id-six {
+    box-shadow: 1px 1px 3px black;
+    padding-right: 10px;
+    padding-left: 10px;
+    border-radius: 5px;
+}
+
+#id-seven {
+    box-shadow: 1px 1px 3px black;
+    padding-right: 10px;
+    padding-left: 10px;
+
+    border-radius: 5px;
+}
+
+#id-eight {
+    box-shadow: 1px 1px 3px black;
+    padding-right: 10px;
+    padding-left: 10px;
+    border-radius: 5px;
+}
+
+#id-nine {
+    box-shadow: 1px 1px 3px black;
+    padding-right: 10px;
+    padding-left: 10px;
+    border-radius: 5px;
+}
+
+#id-ten {
+    border-bottom: 2px solid gray;
+    width: 300px;
+
+}
+
+#id-eleven {
+    margin-left: 43%;
+}
+
+#id-twelve {
+    margin-left: 45%;
+    margin-top: 20px;
+}
+
+.third-div {
+    text-align: center;
+    margin-top: 10px;
+
+}
+
+#id-thirteen {
+    font-size: 40px;
+
+}
+
+.fouth-section {
+    display: flex;
+}
+
+.fourth-div {
+    box-shadow: 2px 2px 5px gray;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+.fifth-div {
+    box-shadow: 2px 2px 5px gray;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+.sixth-div {
+    box-shadow: 2px 2px 5px gray;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+#id-fourteen {
+    width: 15%;
+
+}
+
+#id-fiftheen {
+    width: 15%;
+}
+
+#id-sixteen {
+    width: 15%;
+}
+
+.fifth-section {
+    display: flex;
+    margin-top: 100px;
+
+}
+
+.eight-div {
+    width: 40%;
+
+
+}
+
+#id-eighteen {
+    font-size: 40px;
+}
+
+.seventh-div {
+    margin-left: 3%;
+    text-align: left;
+}
